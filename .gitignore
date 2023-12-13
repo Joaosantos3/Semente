@@ -1,5 +1,6 @@
 venv0
 static/
+vscode/
 
 # Django #
 *.log
@@ -9,7 +10,7 @@ __pycache__
 db.sqlite3
 media
 settings.py
-projeto_semente/settings.py
+.projeto_semente/settings.py
 
 # Backup files #
 *.bak
